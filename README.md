@@ -38,14 +38,14 @@ The form enforces various validations to ensure the entered data is accurate. Th
 - State/Province: Required.
 - Gender: Required.
 - City: Required.
-- 
+  
 ### Table
 
 The `Table` component displays a table of user profiles. It includes pagination to navigate through multiple profiles. You can perform the following actions on each profile:
 
 - Edit: Update the profile's information.
 - Delete: Remove the profile from the list.
-- 
+  
 ### DeleteConfirmationModal
 
 The `DeleteConfirmationModal` component is a confirmation dialog that appears when you attempt to delete a profile. It asks for confirmation before permanently deleting a profile.
